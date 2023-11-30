@@ -1,6 +1,6 @@
-<img width="1281" alt="Screenshot 2023-11-30 at 1 19 27 PM" src="https://github.com/Mark-Farag/Wedding-Planner/assets/97237782/8d8b6013-b4c8-4890-b918-bcb386f277a8"># Wedding-Planner
-An online website for event planning, where you can view parties and their budget.
+An online website for event planning, where you can view parties and their budget, create an account and make reservations.
 
+<img width="1281" alt="Screenshot 2023-11-30 at 1 19 27 PM" src="https://github.com/Mark-Farag/Wedding-Planner/assets/97237782/8d8b6013-b4c8-4890-b918-bcb386f277a8"># Wedding-Planner
 <img width="1281" alt="Screenshot 2023-11-30 at 1 19 27 PM" src="https://github.com/Mark-Farag/Wedding-Planner/assets/97237782/1c5d7f68-db0d-4a81-966e-3736dd31b13a">
 <img width="1281" alt="Screenshot 2023-11-30 at 1 19 47 PM" src="https://github.com/Mark-Farag/Wedding-Planner/assets/97237782/d0883d67-1ab8-464a-a5b1-40f56bd8c438">
 <img width="1281" alt="Screenshot 2023-11-30 at 1 21 01 PM" src="https://github.com/Mark-Farag/Wedding-Planner/assets/97237782/cd23e375-ec4c-48a6-9da8-605c0ed39810">
